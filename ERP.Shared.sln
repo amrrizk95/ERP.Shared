@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP.Shared", "ERP.Shared\ERP.Shared.csproj", "{DD98E5C3-44E6-4B8B-9E7F-8CAE48637F88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD98E5C3-44E6-4B8B-9E7F-8CAE48637F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD98E5C3-44E6-4B8B-9E7F-8CAE48637F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD98E5C3-44E6-4B8B-9E7F-8CAE48637F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD98E5C3-44E6-4B8B-9E7F-8CAE48637F88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69A41E34-8BB8-4020-9637-6FF3CE8643E1}
+	EndGlobalSection
+EndGlobal
