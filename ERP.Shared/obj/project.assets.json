@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Amr\\Study\\practiceSubmodules\\ERP.Shared\\ERP.Shared\\ERP.Shared.csproj",
+      "projectUniqueName": "D:\\Amr\\Study\\practiceSubmodules\\ERP.Domain\\ERP.Shared\\ERP.Shared\\ERP.Shared.csproj",
       "projectName": "ERP.Shared",
-      "projectPath": "D:\\Amr\\Study\\practiceSubmodules\\ERP.Shared\\ERP.Shared\\ERP.Shared.csproj",
+      "projectPath": "D:\\Amr\\Study\\practiceSubmodules\\ERP.Domain\\ERP.Shared\\ERP.Shared\\ERP.Shared.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\Amr\\Study\\practiceSubmodules\\ERP.Shared\\ERP.Shared\\obj\\",
+      "outputPath": "D:\\Amr\\Study\\practiceSubmodules\\ERP.Domain\\ERP.Shared\\ERP.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

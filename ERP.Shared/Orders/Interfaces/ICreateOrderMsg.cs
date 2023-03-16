@@ -9,5 +9,6 @@ namespace ERP.Shared.Orders.Interfaces
         public int Id { get; set; }
         public ProductDto Product { get; set; }
         public string OrderType { get; set; }
+        public decimal AdjustedPrice { get; set; }
     }
 }

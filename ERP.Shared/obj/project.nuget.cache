@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qc4p8XxZfFXLUtlUD7wdqyTqF1Vu657pprlSnuDxnAxMsMFC0n0ZXQCDGai5YGGLZW79FXdMrEqPpJT+q3QQ6A==",
+  "dgSpecHash": "bKT4ZsdN5fcpm2+9Dz9qIo8zGywnc9iP7C6pK7Tnc6REkMKmKNWiqPdlgpBsTTFsvfIIJ2YtcDPpqufdcziu2g==",
   "success": true,
-  "projectFilePath": "D:\\Amr\\Study\\practiceSubmodules\\ERP.Shared\\ERP.Shared\\ERP.Shared.csproj",
+  "projectFilePath": "D:\\Amr\\Study\\practiceSubmodules\\ERP.Domain\\ERP.Shared\\ERP.Shared\\ERP.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
